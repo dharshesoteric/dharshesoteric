@@ -8,7 +8,7 @@
 - 📍 Based in India | CSE Undergrad @ Lovely Professional University (Batch of 2026)  
 - 💻 Passionate about Data Science, Machine Learning, and Web Development  
 - 🌱 Currently mastering **DSA, AI/ML, and Data Visualization**  
-- 📂 My portfolio website: [Portfolio Link](https://your-portfolio-link.com)  
+- 📂 My portfolio website: [Portfolio Link](https://dharshesoteric-portfolio-website.vercel.app/)  
 
 ---
 
@@ -18,9 +18,6 @@
 
 - **🎯 Smart Advertisement Targeting System**  
   A recommendation engine that suggests relevant YouTube channels and websites for publishing ads, based on traffic metrics, genre matching, and sentiment analysis.  
-
-- **💸 MemeCoin Legitimacy Analyzer**  
-  ML-powered system to analyze whether a memecoin is a scam or legitimate, using sentiment analysis, trading patterns, and blockchain metadata.  
 
 - **📈 Stock Market Predictor**  
   Regression-based ML model for predicting stock price trends.  
@@ -37,19 +34,18 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
 ---
 
 ## 🏆 Highlights & Achievements  
 ### 🏅 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&margin-w=15&margin-h=15&no-frame=true)  
+![trophy](https://github-profile-trophy.vercel.app/?username=dharshesoteric&theme=radical&margin-w=15&margin-h=15&no-frame=true)  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshesoteric&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshesoteric&layout=compact&theme=radical)  
 
 ---
