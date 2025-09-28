@@ -13,7 +13,7 @@
 ---
 
 ## Current Projects  
-- **📊 YouTube Analytics Web App**  
+- **YouTube Analytics Web App**  
   A hosted web app that allows users to input a YouTube channel and visualize insights from it using EDA, NLP, and visualizations.  
 
 - **Smart Advertisement Targeting System**  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tech Toolbox  
+## Tech Toolbox  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
