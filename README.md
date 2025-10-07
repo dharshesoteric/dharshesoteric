@@ -19,8 +19,8 @@
 - **Smart Advertisement Targeting System**  
   A recommendation engine that suggests relevant YouTube channels and websites for publishing ads, based on traffic metrics, genre matching, and sentiment analysis.  
 
-- **Stock Market Predictor**  
-  Regression-based ML model for predicting stock price trends.  
+- **Image Classifier Model**  
+  Fine-tuned the mobileV2net model on the CIFAR-10 dataset and improved model accuracy to 87%. Performs well on the listed 10 classes of CIFAR-10.  
 
 ---
 
