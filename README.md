@@ -13,14 +13,14 @@
 ---
 
 ## Current Projects  
-- **YouTube Analytics Web App**  
+- **Y-Insight**  
   A hosted web app that allows users to input a YouTube channel and visualize insights from it using EDA, NLP, and visualizations.  
 
 - **Smart Advertisement Targeting System**  
   A recommendation engine that suggests relevant YouTube channels and websites for publishing ads, based on traffic metrics, genre matching, and sentiment analysis.  
 
-- **Image Classifier Model**  
-  Fine-tuned the mobileV2net model on the CIFAR-10 dataset and improved model accuracy to 87%. Performs well on the listed 10 classes of CIFAR-10.  
+- **SnapClass**  
+  An image classifier model trained based on the mobilev2net architecture trained on the CIFAR-10 dataset. Classifies based on 10 image categories and has an accuracy of ~87%.
 
 ---
 
